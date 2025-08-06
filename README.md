@@ -1,2 +1,22 @@
 # leetcode-problems
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/manasa-mns/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
+## Binary Search
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/manasa-mns/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
+## Segment Tree
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/manasa-mns/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/manasa-mns/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
+<!---LeetCode Topics End-->
