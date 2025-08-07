@@ -26,4 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/manasa-mns/leetcode-problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/manasa-mns/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/manasa-mns/leetcode-problems/tree/master/0443-string-compression) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/manasa-mns/leetcode-problems/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
