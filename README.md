@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/manasa-mns/leetcode-problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/manasa-mns/leetcode-problems/tree/master/0283-move-zeroes) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/manasa-mns/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3791-fruits-into-baskets-iii](https://github.com/manasa-mns/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/manasa-mns/leetcode-problems/tree/master/0443-string-compression) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/manasa-mns/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Matrix
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/manasa-mns/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
