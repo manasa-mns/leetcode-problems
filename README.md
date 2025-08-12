@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/manasa-mns/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0826-soup-servings](https://github.com/manasa-mns/leetcode-problems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/manasa-mns/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 ## Probability and Statistics
