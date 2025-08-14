@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/manasa-mns/leetcode-problems/tree/master/0443-string-compression) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/manasa-mns/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
