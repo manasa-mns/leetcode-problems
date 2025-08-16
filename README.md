@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/manasa-mns/leetcode-problems/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/manasa-mns/leetcode-problems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/manasa-mns/leetcode-problems/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/manasa-mns/leetcode-problems/tree/master/1448-maximum-69-number) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/manasa-mns/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/manasa-mns/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manasa-mns/leetcode-problems/tree/master/0342-power-of-four) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/manasa-mns/leetcode-problems/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
