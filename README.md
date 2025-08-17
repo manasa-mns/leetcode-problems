@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/manasa-mns/leetcode-problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/manasa-mns/leetcode-problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/manasa-mns/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Matrix
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/manasa-mns/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manasa-mns/leetcode-problems/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/manasa-mns/leetcode-problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/manasa-mns/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/manasa-mns/leetcode-problems/tree/master/1448-maximum-69-number) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/manasa-mns/leetcode-problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0867-new-21-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/manasa-mns/leetcode-problems/tree/master/1448-maximum-69-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
