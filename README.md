@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/manasa-mns/leetcode-problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/manasa-mns/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0679-24-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0679-24-game) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/manasa-mns/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1830-count-good-meals](https://github.com/manasa-mns/leetcode-problems/tree/master/1830-count-good-meals) |
 | [2529-range-product-queries-of-powers](https://github.com/manasa-mns/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/manasa-mns/leetcode-problems/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/manasa-mns/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manasa-mns/leetcode-problems/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/manasa-mns/leetcode-problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/manasa-mns/leetcode-problems/tree/master/0900-reordered-power-of-2) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/manasa-mns/leetcode-problems/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
