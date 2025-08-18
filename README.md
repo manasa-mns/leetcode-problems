@@ -108,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0867-new-21-game) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/manasa-mns/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/manasa-mns/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/manasa-mns/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
