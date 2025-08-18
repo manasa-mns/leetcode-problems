@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/manasa-mns/leetcode-problems/tree/master/0067-add-binary) |
 | [0443-string-compression](https://github.com/manasa-mns/leetcode-problems/tree/master/0443-string-compression) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/manasa-mns/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/manasa-mns/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/manasa-mns/leetcode-problems/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/manasa-mns/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manasa-mns/leetcode-problems/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/manasa-mns/leetcode-problems/tree/master/0826-soup-servings) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/manasa-mns/leetcode-problems/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/manasa-mns/leetcode-problems/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/manasa-mns/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manasa-mns/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/manasa-mns/leetcode-problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
