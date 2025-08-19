@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0679-24-game) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/manasa-mns/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1830-count-good-meals](https://github.com/manasa-mns/leetcode-problems/tree/master/1830-count-good-meals) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/manasa-mns/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/manasa-mns/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/manasa-mns/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3791-fruits-into-baskets-iii](https://github.com/manasa-mns/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/manasa-mns/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/manasa-mns/leetcode-problems/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/manasa-mns/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Probability and Statistics
 |  |
 | ------- |
