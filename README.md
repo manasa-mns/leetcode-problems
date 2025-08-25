@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/manasa-mns/leetcode-problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/manasa-mns/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0498-diagonal-traverse](https://github.com/manasa-mns/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0679-24-game) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/manasa-mns/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manasa-mns/leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/manasa-mns/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manasa-mns/leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/manasa-mns/leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/manasa-mns/leetcode-problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/manasa-mns/leetcode-problems/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/manasa-mns/leetcode-problems/tree/master/0498-diagonal-traverse) |
 ## Backtracking
 |  |
 | ------- |
