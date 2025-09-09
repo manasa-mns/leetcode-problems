@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manasa-mns/leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manasa-mns/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/manasa-mns/leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/manasa-mns/leetcode-problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/manasa-mns/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Matrix
@@ -155,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manasa-mns/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/manasa-mns/leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/manasa-mns/leetcode-problems/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/manasa-mns/leetcode-problems/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/manasa-mns/leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Backtracking
 |  |
 | ------- |
