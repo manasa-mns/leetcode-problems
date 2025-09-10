@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasa-mns/leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manasa-mns/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1830-count-good-meals](https://github.com/manasa-mns/leetcode-problems/tree/master/1830-count-good-meals) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/manasa-mns/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/manasa-mns/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/manasa-mns/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/manasa-mns/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/manasa-mns/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/manasa-mns/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1830-count-good-meals](https://github.com/manasa-mns/leetcode-problems/tree/master/1830-count-good-meals) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/manasa-mns/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/manasa-mns/leetcode-problems/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/manasa-mns/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/manasa-mns/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 ## Sliding Window
 |  |
