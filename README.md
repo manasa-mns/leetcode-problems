@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/manasa-mns/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/manasa-mns/leetcode-problems/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/manasa-mns/leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manasa-mns/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/manasa-mns/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manasa-mns/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0900-reordered-power-of-2](https://github.com/manasa-mns/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/manasa-mns/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/manasa-mns/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0679-24-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0679-24-game) |
 ## Heap (Priority Queue)
 |  |
