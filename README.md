@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/manasa-mns/leetcode-problems/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/manasa-mns/leetcode-problems/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/manasa-mns/leetcode-problems/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/manasa-mns/leetcode-problems/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/manasa-mns/leetcode-problems/tree/master/0283-move-zeroes) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/manasa-mns/leetcode-problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/manasa-mns/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/manasa-mns/leetcode-problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/manasa-mns/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/manasa-mns/leetcode-problems/tree/master/0342-power-of-four) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manasa-mns/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manasa-mns/leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/manasa-mns/leetcode-problems/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/manasa-mns/leetcode-problems/tree/master/0800-letter-case-permutation) |
 ## Heap (Priority Queue)
