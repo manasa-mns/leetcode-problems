@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manasa-mns/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manasa-mns/leetcode-problems/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/manasa-mns/leetcode-problems/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/manasa-mns/leetcode-problems/tree/master/0120-triangle) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manasa-mns/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manasa-mns/leetcode-problems/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/manasa-mns/leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/manasa-mns/leetcode-problems/tree/master/0283-move-zeroes) |
