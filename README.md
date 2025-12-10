@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/manasa-mns/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0679-24-game) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/manasa-mns/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/manasa-mns/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manasa-mns/leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasa-mns/leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manasa-mns/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
