@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/manasa-mns/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0443-string-compression](https://github.com/manasa-mns/leetcode-problems/tree/master/0443-string-compression) |
 | [0800-letter-case-permutation](https://github.com/manasa-mns/leetcode-problems/tree/master/0800-letter-case-permutation) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manasa-mns/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/manasa-mns/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/manasa-mns/leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/manasa-mns/leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/manasa-mns/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manasa-mns/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
