@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-count-good-meals](https://github.com/manasa-mns/leetcode-problems/tree/master/1830-count-good-meals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/manasa-mns/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/manasa-mns/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-concatenation-of-array](https://github.com/manasa-mns/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/manasa-mns/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/manasa-mns/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/manasa-mns/leetcode-problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/manasa-mns/leetcode-problems/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/manasa-mns/leetcode-problems/tree/master/0498-diagonal-traverse) |
+| [1929-concatenation-of-array](https://github.com/manasa-mns/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/manasa-mns/leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Backtracking
 |  |
