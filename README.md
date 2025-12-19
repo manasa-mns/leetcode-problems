@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/manasa-mns/leetcode-problems/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/manasa-mns/leetcode-problems/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/manasa-mns/leetcode-problems/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manasa-mns/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/manasa-mns/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/manasa-mns/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0679-24-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/manasa-mns/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/manasa-mns/leetcode-problems/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manasa-mns/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manasa-mns/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/manasa-mns/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manasa-mns/leetcode-problems/tree/master/0342-power-of-four) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manasa-mns/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/manasa-mns/leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/manasa-mns/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/manasa-mns/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
