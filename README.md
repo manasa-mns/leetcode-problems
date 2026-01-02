@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manasa-mns/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/manasa-mns/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/manasa-mns/leetcode-problems/tree/master/0679-24-game) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/manasa-mns/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/manasa-mns/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/manasa-mns/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manasa-mns/leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manasa-mns/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0166-fraction-to-recurring-decimal](https://github.com/manasa-mns/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0900-reordered-power-of-2](https://github.com/manasa-mns/leetcode-problems/tree/master/0900-reordered-power-of-2) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/manasa-mns/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/manasa-mns/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1830-count-good-meals](https://github.com/manasa-mns/leetcode-problems/tree/master/1830-count-good-meals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/manasa-mns/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
